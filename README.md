@@ -6,10 +6,6 @@ This is web based application developed for health related based website in indi
 This web based application has been developed for the accomplishment of future ready talent intenship program launched by microsoft, future skill prime and github.
 
 
-
-project link is : https://thankful-hill-058766700.2.azurestaticapps.net
-
-
 ***screenshots***
 
 *home*
